@@ -25,8 +25,11 @@ OptimaHR is an advanced Human Resource Management System designed to simplify th
 To set up HR Connect Suite locally, follow these steps:
 
 **Prerequisites**
+
   Node.js
+
   MySQL
+  
   Sequelize ORM
 
 # Installation
